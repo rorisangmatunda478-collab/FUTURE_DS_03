@@ -30,3 +30,5 @@ Bank Marketing Strategy & Conversion Analysis
 ​Reallocate Budget: Shift 20% of marketing spend from low-performing months (May) to high-performance windows (September).
 ​Targeted Outreach: Prioritize tertiary-educated leads within the Student and Retired segments.
 ​Sales Training: Implement a "4-minute hook" training program to increase the probability of moving leads into the high-conversion duration zone.
+
+! Final Dashboard https://public.tableau.com/views/BankMarketingFunnelandDemographicAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
